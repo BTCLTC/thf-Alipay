@@ -6,6 +6,8 @@
 </template>
 
 <script>
+import css from './assets/css/app.less'
+
 export default {
   name: 'app'
 }
