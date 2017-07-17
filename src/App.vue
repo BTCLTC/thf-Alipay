@@ -6,14 +6,13 @@
 </template>
 
 <script>
-import css from './assets/css/app.less'
-
 export default {
   name: 'app'
 }
 </script>
 
 <style>
+@import "./assets/css/app.less";
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
